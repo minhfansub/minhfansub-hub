@@ -1,4 +1,4 @@
--- https://discord.gg/nHWmWPQx
+-- https://discord.gg/cfZrN4bq7w
 
 
 shared.LoaderTitle = "theo giõi Minhfansub";
