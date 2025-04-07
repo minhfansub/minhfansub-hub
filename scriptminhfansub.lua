@@ -311,7 +311,7 @@ v5:Destroy();
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/LuaCrack/KimP/refs/heads/main/KimPGaming"))();
+local v14 = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))();
 local v15 = v14:CreateWindow({
     Title = "minhfansub roblox Hub",
     SubTitle = "Blox Fruit"
